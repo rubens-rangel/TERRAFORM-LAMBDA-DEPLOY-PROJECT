@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="253cb3f0-df93-4810-8e0d-0f2cd850ab6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WEB-PROJECT/src/test/java/com/example/demo/IntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/db/DbException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/db/DbException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/db/DbIntegrityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/db/DbIntegrityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/SellerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/impl/DepartmentDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dao-Learning/src/main/java/model/entities/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPA-Hibernate-Learning/src/main/java/Dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/JPA-Hibernate-Learning/src/main/java/Dominio/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPA-Hibernate-Learning/src/main/java/Program/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/JPA-Hibernate-Learning/src/main/java/Program/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPA-Hibernate-Learning/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JPA-Hibernate-Learning/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPA-Hibernate-Learning/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JPA-Hibernate-Learning/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/Passaro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/Passaro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/TipoDeAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/Loja_de_Racao-main/Loja de Ração/src/Entities/TipoDeAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Application/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Application/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Cachorro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Gato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Passaro.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/Passaro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/TipoDeAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/Entities/TipoDeAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loja-de-Racao/out/production/Loja_de_Racao-main/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/DTO/AuthorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/DTO/AuthorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/DTO/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/DTO/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/ProjectBdnaorelacionalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/ProjectBdnaorelacionalApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/config/instantiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/config/instantiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/PostResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/PostResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/exceptions/RessourceExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/exceptions/RessourceExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/exceptions/StandartError.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/exceptions/StandartError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/util/URL.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/resources/util/URL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/services/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/services/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/services/exception/ObjectNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/main/java/WEBSERVICES/PROJECTBDNAORELACIONAL/services/exception/ObjectNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/test/java/WEBSERVICES/PROJECTBDNAORELACIONAL/ProjectBdnaorelacionalApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT-BDNAORELACIONAL/src/test/java/WEBSERVICES/PROJECTBDNAORELACIONAL/ProjectBdnaorelacionalApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/config/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/config/TestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/enums/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/pk/OrderItemPK.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/entities/pk/OrderItemPK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/resources/ProductResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/resources/ProductResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/resources/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/exceptions/DatabaseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/exceptions/DatabaseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/exceptions/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/java/com/example/demo/services/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-PROJECT/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-PROJECT/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Dao-Learning" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24qAIvJBrKkluXiplcxWUVImeXM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="253cb3f0-df93-4810-8e0d-0f2cd850ab6d" name="Changes" comment="" />
+      <created>1644347669107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644347669107</updated>
+    </task>
+    <servers />
+  </component>
+</project>
